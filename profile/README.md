@@ -1,8 +1,8 @@
-# Candy🍬
+# Har:u✏
 <p align="center">
-<img src="https://github.com/google-candy/.github/assets/76810691/f83e05b6-c517-44b1-bf6a-5fbb52376a61" width="90%" height="90%">
-</p>
-Candy Diary is an AI-driven emotional companion tailored for individuals with borderline intelligence, offering personalized conversations and insights to understand and navigate emotions.
+<img src="https://github.com/google-candy/.github/assets/76810691/f380893e-19e2-43cd-9b52-cfe75965d42d" width="90%" height="90%">
+  
+Har:u is an AI-driven emotional companion tailored for individuals with borderline intelligence, offering personalized conversations and insights to understand and navigate emotions.
 
 # UN SDGs🌏
 <p align="center">
@@ -38,14 +38,14 @@ Emotion diary apps, by focusing on the specific group of individuals with border
   
 # Core Functionalities🎯
 <p align="center">
-<img src="https://github.com/google-candy/.github/assets/76810691/05aef2d5-f597-4c07-ad02-72cc48de46d9" width="20%" height="20%">
-<img src="https://github.com/google-candy/.github/assets/76810691/600f12d6-94d4-43e1-8348-2523c65325fd" width="20%" height="20%">
-<img src="https://github.com/google-candy/.github/assets/76810691/36e19dbf-bfce-4b6e-9b2b-0875f0d06cb7" width="20%" height="20%">
+<img src="https://github.com/google-candy/.github/assets/76810691/982a9404-9c9d-4cac-88c6-5a41301667df" width="20%" height="20%">
+<img src="https://github.com/google-candy/.github/assets/76810691/0804d359-5e1f-494c-bb23-76a460514888" width="20%" height="20%">
+<img src="https://github.com/google-candy/.github/assets/76810691/c15db921-e0db-4264-a9ff-0494166dd11e" width="20%" height="20%">  
 </p>
 <p align="center">
-<img src="https://github.com/google-candy/.github/assets/76810691/3b3824e8-b203-4e64-b002-32d4b590a933" width="20%" height="20%">
-<img src="https://github.com/google-candy/.github/assets/76810691/b2359319-9fa2-4882-bd58-d4b130f39213" width="20%" height="20%">
-<img src="https://github.com/google-candy/.github/assets/76810691/1c8d5965-b628-4fb6-9e0f-35f8d4528d9e" width="20%" height="20%">
+<img src="https://github.com/google-candy/.github/assets/76810691/f776ee1b-5478-431a-a729-1e0e83e00b37" width="20%" height="20%">
+<img src="https://github.com/google-candy/.github/assets/76810691/0c80a756-6498-48a5-9e24-c698c96a947d" width="20%" height="20%">
+<img src="https://github.com/google-candy/.github/assets/76810691/a217acfc-ea1f-4c37-9179-157b86afd1a4" width="20%" height="20%">
 </p>
 
 ### **Diary Writing Chat**
